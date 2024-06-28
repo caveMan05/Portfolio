@@ -1,0 +1,27 @@
+[
+  {
+    "role":"Trainee",
+    "organisation":"Ducat(Noida)",
+    "startDate":"June-2018",
+    "endDate":"July-2018",
+    "experience":["Learned IoT","Worked on Arduino Uno and other hardware"],
+    "imageSrc":"history/ducat.png"
+  },
+  {
+    "role":"Intern",
+    "organisation":"Indian Army",
+    "startDate":"June-2019",
+    "endDate":"July-2019",
+    "experience":["Worked on Tank T-72 AJEYA","Learned about Communication System in Tank T-72"],
+    "imageSrc":"history/army.png"
+  },
+  {
+    "role":"Student",
+    "organisation":"Udemy",
+    "startDate":"Aug-2023",
+    "endDate":"Dec-2023",
+    "experience":["Web Development BootCamp 2023 ","Leared MERN stack development","Build Few Web Apps"],
+    "imageSrc":"history/udemy.png"
+  }
+  
+]
